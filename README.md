@@ -1,0 +1,1 @@
+*Bu doküman, SAP sisteminde Desktop Office Integration (DOI) sınıflarını kullanarak, birden fazla sekmeden (Sheet) oluşan bir Excel dosyasının nasıl okunacağını ve verilerin nasıl dinamik olarak işleneceğini açıklamaktadır.
